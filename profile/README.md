@@ -2,6 +2,7 @@ Leading manufacturer in the embedded computing industry and marketleader for SoM
 
 http://www.technexion.com
 
+<br/> 
 
 ![nxp](https://github.com/TechNexion/.github/assets/6065214/aeaafe9b-a75d-49ec-9287-8220541d025a)
 
@@ -14,5 +15,23 @@ http://www.technexion.com
 | Ubuntu ARM64            | [Ubuntu Gnome(based on Yocto)](https://github.com/TechNexion/tn-imx-yocto-manifest)                                                                                                                                                                                                                                                                                                                                            |
 | Ubuntu ARM32            | <div>[Ubuntu&nbsp;<span style="background-color: var(--background-primary); color: var(--text-normal); font-family: var(--font-interface); font-size: var(--font-ui-medium);">XFCE</span><span style="background-color: var(--background-primary); color: var(--text-normal); font-family: var(--font-interface); font-size: var(--font-ui-medium);">](https://github.com/TechNexion-customization/ubuntu-tn-imx)</span></div> |
 | Android                 | [TechNexion-Android](https://github.com/technexion-android/)                                                                                                                                                                                                                                                                                                                                                                   |  
+<br/> 
+
+![圖片](https://github.com/TechNexion/.github/assets/6065214/68db5fe8-c6cf-4481-966c-c8b8c770f57d)
 
 
+|  TI AM6X/TDA4           |  Repository                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  u-boot                 |  [u-boot-tn-ti](https://github.com/TechNexion/u-boot-tn-ti)                                                                                                                                                                                                                                                                                                                                                                              |
+|  Linux kernel           |  [linux-tn-ti](https://github.com/TechNexion/linux-tn-ti)                                                                                                                                                                                                                                                                                                                                                                                |
+|  Yocto source download  |  [tn-ti-yocto-oe-layersetup](https://github.com/TechNexion/tn-ti-yocto-oe-layersetup)                                                                                                                                                                                                                                                                                                                                                    |
+|  Yocto TN meta layer    |  [meta-tn-ti-bsp](https://github.com/TechNexion/meta-tn-ti-bsp)                                                                                                                                                                                                                                                                                                                                                                          |  
+<br/>
+
+## TechNexion camera support on NXP i.mx/TI AM6X/TI TDA4/nVidia Orin/ST STM32MP2 EVK
+![圖片](https://github.com/TechNexion/.github/assets/6065214/67d5d404-5f42-41f0-a8bb-10f4c709ff70)
+
+| TechNexion Vision                 |                                                                                                                 |
+|:----------------------------------|:----------------------------------------------------------------------------------------------------------------|
+| Camera linux driver and VizionSDK |  [TechNexion-Vision](https://github.com/technexion-vision)                                                      |
+|  Developer guide                  |  [embedded-vision](https://developer.technexion.com/docs/embedded-vision-overview)                              |  
