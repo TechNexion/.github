@@ -1,4 +1,4 @@
-Leading manufacturer in the embedded computing industry and marketleader for SoM (system on modules) around ARM architectures.
+Leading manufacturer in the embedded computing industry and marketleader for ARM based SoM (system on modules), Embedded Camera Modules and Machine Vision Camera Solutions  .
 
 http://www.technexion.com
 
