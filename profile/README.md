@@ -33,7 +33,7 @@ http://www.technexion.com
 |  Yocto TN meta layer    |  [meta-tn-ti-bsp](https://github.com/TechNexion/meta-tn-ti-bsp)                                                                                                                                                                                                                                                                                                                                                                          |  
 <br/>
 
-## TechNexion camera support on NXP i.mx/TI AM6X/TI TDA4/nVidia Orin/ST STM32MP2 EVK
+## TechNexion camera support on NXP i.mx/TI AM6X/TI TDA4/NVIDIA Jetson/Renesas EVK
 ![圖片](https://github.com/TechNexion/.github/assets/6065214/67d5d404-5f42-41f0-a8bb-10f4c709ff70)
 
 | TechNexion Vision                 |                                                                                                                 |
